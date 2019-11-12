@@ -1,4 +1,11 @@
-.headerquantity {
-text-align: right;
-  
+.iconwhite{
+  color:white
+}
+
+.roundbutton{
+	border-radius: 50%
+}
+
+.cardborder{
+	border-radius:1px
 }
